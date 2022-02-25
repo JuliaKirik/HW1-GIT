@@ -1,0 +1,161 @@
+4f276dd (HEAD -> develop, feature4) HEAD@{0}: merge feature4: Fast-forward
+c15d1df (feature3) HEAD@{1}: checkout: moving from feature4 to develop
+4f276dd (HEAD -> develop, feature4) HEAD@{2}: rebase (continue) (finish): returning to r
+efs/heads/feature4
+4f276dd (HEAD -> develop, feature4) HEAD@{3}: rebase (continue): changed styles
+c15d1df (feature3) HEAD@{4}: rebase (start): checkout develop
+f77dc8e HEAD@{5}: checkout: moving from develop to feature4
+c15d1df (feature3) HEAD@{6}: merge feature3: Fast-forward
+c4c120e (master) HEAD@{7}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{8}: checkout: moving from develop to feature3
+4f276dd (HEAD -> develop, feature4) HEAD@{0}: merge feature4: Fast-forward
+c15d1df (feature3) HEAD@{1}: checkout: moving from feature4 to develop
+4f276dd (HEAD -> develop, feature4) HEAD@{2}: rebase (continue) (finish): returning to r
+efs/heads/feature4
+4f276dd (HEAD -> develop, feature4) HEAD@{3}: rebase (continue): changed styles
+c15d1df (feature3) HEAD@{4}: rebase (start): checkout develop
+f77dc8e HEAD@{5}: checkout: moving from develop to feature4
+c15d1df (feature3) HEAD@{6}: merge feature3: Fast-forward
+c4c120e (master) HEAD@{7}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{8}: checkout: moving from develop to feature3
+4f276dd (HEAD -> develop, feature4) HEAD@{0}: merge feature4: Fast-forward
+c15d1df (feature3) HEAD@{1}: checkout: moving from feature4 to develop
+4f276dd (HEAD -> develop, feature4) HEAD@{2}: rebase (continue) (finish): returning to r
+efs/heads/feature4
+4f276dd (HEAD -> develop, feature4) HEAD@{3}: rebase (continue): changed styles
+c15d1df (feature3) HEAD@{4}: rebase (start): checkout develop
+f77dc8e HEAD@{5}: checkout: moving from develop to feature4
+c15d1df (feature3) HEAD@{6}: merge feature3: Fast-forward
+c4c120e (master) HEAD@{7}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{8}: checkout: moving from develop to feature3
+c4c120e (master) HEAD@{9}: checkout: moving from feature4 to develop
+4f276dd (HEAD -> develop, feature4) HEAD@{0}: merge feature4: Fast-forward
+c15d1df (feature3) HEAD@{1}: checkout: moving from feature4 to develop
+4f276dd (HEAD -> develop, feature4) HEAD@{2}: rebase (continue) (finish): returning to r
+efs/heads/feature4
+4f276dd (HEAD -> develop, feature4) HEAD@{3}: rebase (continue): changed styles
+c15d1df (feature3) HEAD@{4}: rebase (start): checkout develop
+f77dc8e HEAD@{5}: checkout: moving from develop to feature4
+c15d1df (feature3) HEAD@{6}: merge feature3: Fast-forward
+c4c120e (master) HEAD@{7}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{8}: checkout: moving from develop to feature3
+c4c120e (master) HEAD@{9}: checkout: moving from feature4 to develop
+f77dc8e HEAD@{10}: commit: changed styles
+c4c120e (master) HEAD@{11}: checkout: moving from develop to feature4
+4f276dd (HEAD -> develop, feature4) HEAD@{0}: merge feature4: Fast-forward
+c15d1df (feature3) HEAD@{1}: checkout: moving from feature4 to develop
+4f276dd (HEAD -> develop, feature4) HEAD@{2}: rebase (continue) (finish): returning to r
+efs/heads/feature4
+4f276dd (HEAD -> develop, feature4) HEAD@{3}: rebase (continue): changed styles
+c15d1df (feature3) HEAD@{4}: rebase (start): checkout develop
+f77dc8e HEAD@{5}: checkout: moving from develop to feature4
+c15d1df (feature3) HEAD@{6}: merge feature3: Fast-forward
+c4c120e (master) HEAD@{7}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{8}: checkout: moving from develop to feature3
+c4c120e (master) HEAD@{9}: checkout: moving from feature4 to develop
+f77dc8e HEAD@{10}: commit: changed styles
+c4c120e (master) HEAD@{11}: checkout: moving from develop to feature4
+c4c120e (master) HEAD@{12}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{13}: commit: changed styles
+c4c120e (master) HEAD@{14}: checkout: moving from master to feature3
+4f276dd (HEAD -> develop, feature4) HEAD@{0}: merge feature4: Fast-forward
+c15d1df (feature3) HEAD@{1}: checkout: moving from feature4 to develop
+4f276dd (HEAD -> develop, feature4) HEAD@{2}: rebase (continue) (finish): returning to r
+efs/heads/feature4
+4f276dd (HEAD -> develop, feature4) HEAD@{3}: rebase (continue): changed styles
+c15d1df (feature3) HEAD@{4}: rebase (start): checkout develop
+f77dc8e HEAD@{5}: checkout: moving from develop to feature4
+c15d1df (feature3) HEAD@{6}: merge feature3: Fast-forward
+c4c120e (master) HEAD@{7}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{8}: checkout: moving from develop to feature3
+c4c120e (master) HEAD@{9}: checkout: moving from feature4 to develop
+f77dc8e HEAD@{10}: commit: changed styles
+c4c120e (master) HEAD@{11}: checkout: moving from develop to feature4
+c4c120e (master) HEAD@{12}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{13}: commit: changed styles
+c4c120e (master) HEAD@{14}: checkout: moving from master to feature3
+c4c120e (master) HEAD@{15}: merge develop: Fast-forward
+c3f9a75 HEAD@{16}: checkout: moving from develop to master
+4f276dd (HEAD -> develop, feature4) HEAD@{0}: merge feature4: Fast-forward
+c15d1df (feature3) HEAD@{1}: checkout: moving from feature4 to develop
+4f276dd (HEAD -> develop, feature4) HEAD@{2}: rebase (continue) (finish): returning to r
+efs/heads/feature4
+4f276dd (HEAD -> develop, feature4) HEAD@{3}: rebase (continue): changed styles
+c15d1df (feature3) HEAD@{4}: rebase (start): checkout develop
+f77dc8e HEAD@{5}: checkout: moving from develop to feature4
+c15d1df (feature3) HEAD@{6}: merge feature3: Fast-forward
+c4c120e (master) HEAD@{7}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{8}: checkout: moving from develop to feature3
+c4c120e (master) HEAD@{9}: checkout: moving from feature4 to develop
+f77dc8e HEAD@{10}: commit: changed styles
+c4c120e (master) HEAD@{11}: checkout: moving from develop to feature4
+c4c120e (master) HEAD@{12}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{13}: commit: changed styles
+c4c120e (master) HEAD@{14}: checkout: moving from master to feature3
+c4c120e (master) HEAD@{15}: merge develop: Fast-forward
+c3f9a75 HEAD@{16}: checkout: moving from develop to master
+c4c120e (master) HEAD@{17}: commit (merge): merged
+4f276dd (HEAD -> develop, feature4) HEAD@{0}: merge feature4: Fast-forward
+c15d1df (feature3) HEAD@{1}: checkout: moving from feature4 to develop
+4f276dd (HEAD -> develop, feature4) HEAD@{2}: rebase (continue) (finish): returning to r
+efs/heads/feature4
+4f276dd (HEAD -> develop, feature4) HEAD@{3}: rebase (continue): changed styles
+c15d1df (feature3) HEAD@{4}: rebase (start): checkout develop
+f77dc8e HEAD@{5}: checkout: moving from develop to feature4
+c15d1df (feature3) HEAD@{6}: merge feature3: Fast-forward
+c4c120e (master) HEAD@{7}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{8}: checkout: moving from develop to feature3
+c4c120e (master) HEAD@{9}: checkout: moving from feature4 to develop
+f77dc8e HEAD@{10}: commit: changed styles
+c4c120e (master) HEAD@{11}: checkout: moving from develop to feature4
+c4c120e (master) HEAD@{12}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{13}: commit: changed styles
+c4c120e (master) HEAD@{14}: checkout: moving from master to feature3
+c4c120e (master) HEAD@{15}: merge develop: Fast-forward
+c3f9a75 HEAD@{16}: checkout: moving from develop to master
+c4c120e (master) HEAD@{17}: commit (merge): merged
+e55d904 (feature1) HEAD@{18}: merge feature1: Fast-forward
+4f276dd (HEAD -> develop, feature4) HEAD@{0}: merge feature4: Fast-forward
+c15d1df (feature3) HEAD@{1}: checkout: moving from feature4 to develop
+4f276dd (HEAD -> develop, feature4) HEAD@{2}: rebase (continue) (finish): returning to r
+efs/heads/feature4
+4f276dd (HEAD -> develop, feature4) HEAD@{3}: rebase (continue): changed styles
+c15d1df (feature3) HEAD@{4}: rebase (start): checkout develop
+f77dc8e HEAD@{5}: checkout: moving from develop to feature4
+c15d1df (feature3) HEAD@{6}: merge feature3: Fast-forward
+c4c120e (master) HEAD@{7}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{8}: checkout: moving from develop to feature3
+c4c120e (master) HEAD@{9}: checkout: moving from feature4 to develop
+f77dc8e HEAD@{10}: commit: changed styles
+c4c120e (master) HEAD@{11}: checkout: moving from develop to feature4
+c4c120e (master) HEAD@{12}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{13}: commit: changed styles
+c4c120e (master) HEAD@{14}: checkout: moving from master to feature3
+c4c120e (master) HEAD@{15}: merge develop: Fast-forward
+c3f9a75 HEAD@{16}: checkout: moving from develop to master
+c4c120e (master) HEAD@{17}: commit (merge): merged
+e55d904 (feature1) HEAD@{18}: merge feature1: Fast-forward
+eebe1ed HEAD@{19}: checkout: moving from feature2 to develop
+:...skipping...
+4f276dd (HEAD -> develop, feature4) HEAD@{0}: merge feature4: Fast-forward
+c15d1df (feature3) HEAD@{1}: checkout: moving from feature4 to develop
+4f276dd (HEAD -> develop, feature4) HEAD@{2}: rebase (continue) (finish): returning to r
+efs/heads/feature4
+4f276dd (HEAD -> develop, feature4) HEAD@{3}: rebase (continue): changed styles
+c15d1df (feature3) HEAD@{4}: rebase (start): checkout develop
+f77dc8e HEAD@{5}: checkout: moving from develop to feature4
+c15d1df (feature3) HEAD@{6}: merge feature3: Fast-forward
+c4c120e (master) HEAD@{7}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{8}: checkout: moving from develop to feature3
+c4c120e (master) HEAD@{9}: checkout: moving from feature4 to develop
+f77dc8e HEAD@{10}: commit: changed styles
+c4c120e (master) HEAD@{11}: checkout: moving from develop to feature4
+c4c120e (master) HEAD@{12}: checkout: moving from feature3 to develop
+c15d1df (feature3) HEAD@{13}: commit: changed styles
+c4c120e (master) HEAD@{14}: checkout: moving from master to feature3
+c4c120e (master) HEAD@{15}: merge develop: Fast-forward
+c3f9a75 HEAD@{16}: checkout: moving from develop to master
+c4c120e (master) HEAD@{17}: commit (merge): merged
+e55d904 (feature1) HEAD@{18}: merge feature1: Fast-forward
+eebe1ed HEAD@{19}: checkout: moving from feature2 to develop
+4320afa (feature2) HEAD@{20}: commit: Added styles
